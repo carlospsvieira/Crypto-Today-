@@ -1,7 +1,7 @@
 # Crypto-Today (Api fetching from Coincap.io)
 
 ##### Intro:
-My first fetch with Js ever. A very simplistic list feching updated values of crypto currencies.
+My first API fetch ever. A very simplistic list feching updated values of crypto currencies.
 
 #### Technologies:
 - JavaScript
